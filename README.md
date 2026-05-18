@@ -1,3 +1,6 @@
+欢迎各位大佬指导！🙏  
+Welcome to contribute / Feel free to give advice!
+
 # Windows 电脑工具箱 / Windows PC Toolbox
 
 ## 中文版
